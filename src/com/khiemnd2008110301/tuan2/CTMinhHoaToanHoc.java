@@ -1,4 +1,4 @@
-package tuan02;
+package tuan2;
 
 public class CTMinhHoaToanHoc {
 
