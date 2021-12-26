@@ -3,6 +3,7 @@ package tuan9;
 import java.util.Arrays;
 
 public class Sapxeptangdan {
+    private static int index;
     public static void main(String[] args) {
         int[] arr = {5, 1, 12, -5, 16, 2, 12, 14,};
         sapxeptangdan(arr);

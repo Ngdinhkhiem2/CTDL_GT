@@ -11,8 +11,6 @@ public class TaoTestDrive {
              System.out.println("Nhập chức năng bạn muốn chọn: ");
              int n = khotao.nextInt();
              switch(n){
-                 case 0:
-                 break;
                  case 1:
                  tao.inNhapThongTin();
                  break;
@@ -26,12 +24,10 @@ public class TaoTestDrive {
                  tao.inDanhSachTao();
                  break;
                  default: System.out.println("Lỗi mời nhập lại: ");
-             }
+                }
 
-             while(true);
-             
-        
-         }
+            } while(true);
+
     
 
     
